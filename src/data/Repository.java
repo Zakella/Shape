@@ -1,2 +1,5 @@
-package data;public interface Repository {
+package data;
+
+public interface Repository {
+    public void add();
 }

@@ -1,2 +1,5 @@
-package data;public interface Perimeter {
+package data;
+
+public interface Perimeter {
+    public double perimeter();
 }

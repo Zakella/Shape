@@ -1,2 +1,6 @@
-package data;public interface Сircumference {
+package data;
+
+public interface Сircumference {
+
+    public double length();
 }

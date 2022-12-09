@@ -1,2 +1,8 @@
-package data;public interface Shape {
+package data;
+
+public class Shape {
+    public double getArea() {
+        return 0;
+    }
+
 }
